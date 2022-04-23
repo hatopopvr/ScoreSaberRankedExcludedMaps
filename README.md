@@ -11,7 +11,7 @@ It is created for use in the MyBeatSaberAnalytics.
 It may be deleted if it is no longer needed.  
 不要になれば削除する可能性があります。  
 
-CSV Item Description  
+__CSV Item Description__  
 
 | item | description | Example |
 | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ CSV Item Description
 | RankDateJa | Datetime when the map was ranked | 2022-04-16 03:29:00+09:00 | 
 | CreatedDateJa | Datetime when the map was created | 2022-01-08 00:59:28.886757+09:00 |
 
-CSV項目名の説明  
+__CSV項目名の説明__  
 
 | 項目名 | 説明 | 例 |
 | :--- | :--- | :--- |
