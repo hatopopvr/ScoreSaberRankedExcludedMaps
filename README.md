@@ -1,14 +1,17 @@
 # ScoreSaberRankedExcludedMaps
-CSV data of maps excluded from ScoreSaber’s ranked maps.
-[ScoreSaber](https://scoresaber.com/leaderboards)のランク譜面から除外されたマップのCSVデータです。
+CSV data of maps excluded from ScoreSaber’s ranked maps.  
+[ScoreSaber](https://scoresaber.com/leaderboards)のランク譜面から除外されたマップのCSVデータです。  
 
-This repository and CSV are provisional with manual maintenance.
+This repository and CSV are provisional with manual maintenance.  
 このリポジトリとCSVは手動メンテナンスで暫定的です。
 
-It may be deleted if it is no longer needed.
-不要になれば削除する可能性があります。
+It is created for use in the MyBeatSaberAnalytics.
+[MyBeatSaberAnalytics](https://github.com/hatopopvr/MyBeatSaberAnalytics)で使用するために作成しています。
 
-CSV Item Description
+It may be deleted if it is no longer needed.  
+不要になれば削除する可能性があります。  
+
+CSV Item Description  
 
 | item | description | Example |
 | :--- | :--- | :--- |
@@ -24,7 +27,7 @@ CSV Item Description
 | RankDateJa | Datetime when the map was ranked | 2022-04-16 03:29:00+09:00 | 
 | CreatedDateJa | Datetime when the map was created | 2022-01-08 00:59:28.886757+09:00 |
 
-CSV項目名の説明
+CSV項目名の説明  
 
 | 項目名 | 説明 | 例 |
 | :--- | :--- | :--- |
