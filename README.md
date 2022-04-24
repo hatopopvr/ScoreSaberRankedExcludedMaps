@@ -39,7 +39,6 @@ __CSV項目名の説明__
 | SongAuthor | 曲の作者 | Laur | 
 | LevelAuthor | 譜面の作者 | Jabob | 
 | Uploader | 譜面のアップロード者 | jabob |
-| ExcludedUpdateDateJa | RankedExcludedMaps.csv
-で更新した日時 | 2022-04-24 02:00:00+09:00 | 
+| ExcludedUpdateDateJa | RankedExcludedMaps.csv で更新した日時 | 2022-04-24 02:00:00+09:00 | 
 | RankDateJa | Rank化された日時 | 2022-04-16 03:29:00+09:00 | 
 | CreatedDateJa | 譜面が作られた日時 | 2022-01-08 00:59:28.886757+09:00 |
