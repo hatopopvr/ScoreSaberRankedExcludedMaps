@@ -15,8 +15,8 @@ __CSV Item Description__
 
 | item | description | Example |
 | :--- | :--- | :--- |
-| Hash | hash of the map | B77A35FEC3F53AD11E154B67DDD9CD933D37057A | 
-| Difficulty | difficulty of the map (Easy to ExpertPlus) | Easy |
+| Hash | [key] hash of the map | B77A35FEC3F53AD11E154B67DDD9CD933D37057A | 
+| Difficulty | [key] difficulty of the map (Easy to ExpertPlus) | Easy |
 | RankedExcluded | the map was excluded from ranked map or not (bool)	| TRUE |
 | SongName | song name | DANGEROOOOUS JUNGLE |
 | SongSub | song sub name | NaN |
