@@ -17,7 +17,7 @@ __CSV Item Description__
 | :--- | :--- | :--- |
 | Hash | [key] hash of the map | B77A35FEC3F53AD11E154B67DDD9CD933D37057A | 
 | Difficulty | [key] difficulty of the map (Easy to ExpertPlus) | Easy |
-| RankedExcluded | the map was excluded from ranked map or not (bool)	| TRUE |
+| RankedExcluded | [Not Null] the map was excluded from ranked map or not (bool)	| TRUE |
 | SongName | song name | DANGEROOOOUS JUNGLE |
 | SongSub | song sub name | NaN |
 | SongAuthor | song author name | Laur | 
@@ -31,9 +31,9 @@ __CSV項目名の説明__
 
 | 項目名 | 説明 | 例 |
 | :--- | :--- | :--- |
-| Hash | 譜面のハッシュ | B77A35FEC3F53AD11E154B67DDD9CD933D37057A | 
-| Difficulty | 譜面の難易度(EasyからExpertPlus) | Easy |
-| RankedExcluded | 譜面がRank譜面から除外されたか (bool値)	| TRUE |
+| Hash | [key] 譜面のハッシュ | B77A35FEC3F53AD11E154B67DDD9CD933D37057A | 
+| Difficulty | [key] 譜面の難易度(EasyからExpertPlus) | Easy |
+| RankedExcluded | [Not Null] 譜面がRank譜面から除外されたか (bool値)	| TRUE |
 | SongName | 曲名 | DANGEROOOOUS JUNGLE |
 | SongSub | 曲のサブタイトル | NaN |
 | SongAuthor | 曲の作者 | Laur | 
