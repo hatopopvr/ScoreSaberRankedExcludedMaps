@@ -1,5 +1,5 @@
 # ScoreSaberRankedExcludedMaps
-CSV data of maps excluded from ScoreSaber’s ranked maps.  
+[CSV](RankedExcludedMaps.csv) data of maps excluded from ScoreSaber’s ranked maps.  
 [ScoreSaber](https://scoresaber.com/leaderboards)のランク譜面から除外されたマップのCSVデータです。  
 
 Gameplay of [ScoreSaber Ranking Criteria](https://docs.google.com/document/d/1_EBmvCTHyJ5-0ox5IZgmnItVqAjaBWltWslxqSc5_-4/edit#heading=h.11dlgmbqgxsa) (see below), only "Standard" Mode is assumed.
