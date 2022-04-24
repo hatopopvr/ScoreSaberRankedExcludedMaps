@@ -2,6 +2,10 @@
 CSV data of maps excluded from ScoreSaber’s ranked maps.  
 [ScoreSaber](https://scoresaber.com/leaderboards)のランク譜面から除外されたマップのCSVデータです。  
 
+Gameplay of [ScoreSaber Ranking Criteria](https://docs.google.com/document/d/1_EBmvCTHyJ5-0ox5IZgmnItVqAjaBWltWslxqSc5_-4/edit#heading=h.11dlgmbqgxsa) (see below), only "Standard" Mode is assumed.
+[ScoreSaber Ranking Criteria](https://docs.google.com/document/d/1_EBmvCTHyJ5-0ox5IZgmnItVqAjaBWltWslxqSc5_-4/edit#heading=h.11dlgmbqgxsa)のRules 1.Gameplay の記述(以下)に基づき"Standard" Modeのみを想定しています。
+> Maps must be 'Standard' game mode maps.
+
 This repository and CSV are provisional with manual maintenance.  
 このリポジトリとCSVは手動メンテナンスで暫定的です。
 
