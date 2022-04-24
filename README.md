@@ -5,7 +5,7 @@ CSV data of maps excluded from ScoreSaber’s ranked maps.
 This repository and CSV are provisional with manual maintenance.  
 このリポジトリとCSVは手動メンテナンスで暫定的です。
 
-It is created for use in the MyBeatSaberAnalytics.
+It is created for use in the MyBeatSaberAnalytics.  
 [MyBeatSaberAnalytics](https://github.com/hatopopvr/MyBeatSaberAnalytics)で使用するために作成しています。
 
 It may be deleted if it is no longer needed.  
