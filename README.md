@@ -23,7 +23,7 @@ __CSV Item Description__
 | SongAuthor | song author name | Laur | 
 | LevelAuthor | map author name | Jabob | 
 | Uploader | uploader name | jabob |
-| ExcludedUpdateDateJa | Datetime when the map was excluded from ranked | 2022-04-24 02:00:00+09:00 | 
+| ExcludedUpdateDateJa | Datetime when updated in RankedExcludedMaps.csv | 2022-04-24 02:00:00+09:00 | 
 | RankDateJa | Datetime when the map was ranked | 2022-04-16 03:29:00+09:00 | 
 | CreatedDateJa | Datetime when the map was created | 2022-01-08 00:59:28.886757+09:00 |
 
